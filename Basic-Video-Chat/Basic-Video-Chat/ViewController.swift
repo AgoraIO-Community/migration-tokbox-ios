@@ -10,13 +10,13 @@ import UIKit
 import AgoraRtcKit
 
 // *** Fill the following variables using your own Project info  ***
-// ***            https://tokbox.com/account/#/                  ***
-// Replace with your OpenTok API key
+// ***            https://console.agora.io                  ***
+// Replace with your Agora App ID
 let AppID = ""
 // Replace with your generated session ID
-let kSessionId = ""
+// let kSessionId = ""
 // Replace with your generated token
-let kToken = ""
+// let kToken = ""
 
 let kWidgetHeight = 240
 let kWidgetWidth = 320
