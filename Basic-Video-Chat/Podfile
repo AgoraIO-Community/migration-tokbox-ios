@@ -1,0 +1,9 @@
+platform :ios, '12.0'
+use_frameworks!
+
+#require_relative '../OpenTokSDKVersion'
+
+target 'Basic-Video-Chat' do
+  #pod 'OpenTok', OpenTokSDKVersion
+  pod 'AgoraRtcEngine_iOS'
+end
